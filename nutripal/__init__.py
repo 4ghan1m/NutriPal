@@ -1,0 +1,1 @@
+"""NutriPal - AI nutritionist in your terminal."""

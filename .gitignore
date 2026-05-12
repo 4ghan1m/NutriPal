@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Runtime data
+data/profile.json
+data/fridge.json
+data/history.json
+data/.input_history
+
+# Config (contains secrets)
+config.json
+
+# OS
+.DS_Store
+Thumbs.db
