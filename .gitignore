@@ -25,6 +25,9 @@ data/.input_history
 # Config (contains secrets)
 config.json
 
+# Local docs
+项目技术总结.txt
+
 # OS
 .DS_Store
 Thumbs.db
